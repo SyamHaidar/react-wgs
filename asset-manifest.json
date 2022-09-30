@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-wgs/static/css/main.e96ad1e1.css",
-    "main.js": "/react-wgs/static/js/main.5d908ed0.js",
+    "main.js": "/react-wgs/static/js/main.bb500bdf.js",
     "static/media/wgs.svg": "/react-wgs/static/media/wgs.7bfbac5460c4b25d2506a53e1edf587e.svg",
     "index.html": "/react-wgs/index.html",
     "main.e96ad1e1.css.map": "/react-wgs/static/css/main.e96ad1e1.css.map",
-    "main.5d908ed0.js.map": "/react-wgs/static/js/main.5d908ed0.js.map"
+    "main.bb500bdf.js.map": "/react-wgs/static/js/main.bb500bdf.js.map"
   },
   "entrypoints": [
     "static/css/main.e96ad1e1.css",
-    "static/js/main.5d908ed0.js"
+    "static/js/main.bb500bdf.js"
   ]
 }
